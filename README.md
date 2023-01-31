@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Local DNS Attack Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Computer Security And Intrusion Detection Lab</b>
+  - [Local DNS attack Lab](https://github.com/kidane321/Local-DNS-Attack-Lab)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
