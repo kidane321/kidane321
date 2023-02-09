@@ -19,13 +19,12 @@
    <b>Network Security and management </b>
   -
   -
-  - <b>System Administrator </b>
+  <b>System Administrator </b>
   -
   -
   -
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>Java</b>
+  -
 <h2>📺 YouTube Videos</h2>
 
 - [title](🔗)
