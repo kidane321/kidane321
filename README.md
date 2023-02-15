@@ -1,4 +1,4 @@
-<h1>Hi, I'm Manderas Kidane! <br/><a href="https://github.com/joshmadakor1"> A senior majoring in Information Technology at the University of North Florida </a> <a href="https://app.joinhandshake.com/stu/users/31818413"></a>
+<h1>Hi, I'm Manderas Kidane!  A senior majoring in Information Technology at the University of North Florida </a> <a href="https://app.joinhandshake.com/stu/users/31818413"></a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
