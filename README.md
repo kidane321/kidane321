@@ -4,7 +4,7 @@
 
  <b>Computer Security And Intrusion Detection </b>
   - [Local DNS attack Lab](https://github.com/kidane321/Local-DNS-Attack-Lab)
-  - [VPN-Tunneling-Lab](https://github.com/kidane321/VPN-Tunneling-Lab)
+  - [VPN-Tunneling-Lab](https://github.com/kidane321/VPN-Tunneling-Lab-)
   - [Public Key infrastructure (PKI)](https://github.com/kidane321/Project-1---Public-Key-Infrastructure-PKI-)
  
 <b> Computer Forensic</b>
