@@ -8,7 +8,7 @@
   - [Public Key infrastructure (PKI)](https://github.com/kidane321/Project-1---Public-Key-Infrastructure-PKI-)
  
 <b> Computer Forensic</b>
-- Project:Investigating Credit Card Fraud 
+- Project: [Investigating Credit Card Fraud](https://github.com/kidane321/Fraud-Case-investigation)
  - Duration: 1 semester
  -	Description: Conducted a forensic analysis of a laptop seized during a credit card fraud investigation to collect evidence and identify the suspect
  - Tasks:
@@ -31,6 +31,8 @@
   -
   -
 <b>Python</b>
+
+
   -
 <h2>📺 YouTube Videos</h2>
 
