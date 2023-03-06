@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
- <b>Computer Security And Intrusion Detection </b>
+ <b>Computer Security And Intrusion Detections </b>
   - [Local DNS attack Lab](https://github.com/kidane321/Local-DNS-Attack-Lab)
   - [VPN-Tunneling-Lab](https://github.com/kidane321/VPN-Tunneling-Lab-)
   - [Public Key infrastructure (PKI)](https://github.com/kidane321/Project-1---Public-Key-Infrastructure-PKI-)
  
-<b> Computer Forensic</b>
+<b> Computer Forensics</b>
 - Project: [Investigating Credit Card Fraud](https://github.com/kidane321/Fraud-Case-investigation)
  - Duration: 1 semester
  -	Description: Conducted a forensic analysis of a laptop seized during a credit card fraud investigation to collect evidence and identify the suspect
@@ -23,10 +23,10 @@
   -
   -
   -
- <b>Network Security and management </b>
+ <b>Network Security and managements </b>
   -
   -
- <b>System Administrator </b>
+ <b>System Admin </b>
   -
   -
   -
