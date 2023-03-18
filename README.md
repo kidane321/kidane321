@@ -17,15 +17,20 @@
      -	Created screenshots and pictures of all relevant evidence and findings
      -	Generated a report summarizing the findings of the investigation
 -	Technologies: FTK Imager, Autopsy, EnCase, Linux command-line tools 
-
-<b> Computer Networking </b>
-  - 
-  -
-  -
-  -
- <b>Network Security and managements </b>
-  -
-  -
+-
+<b> Network Security and managements </b>
+- Project : [Nessus Vulnerability Managements](https://github.com/kidane321/Nessus-Vulnerability-Management)
+- Duration: 1 semester
+- Task:
+     - Conducted vulnerability assessments of network devices and servers using Nessus
+     - Analyzed scan results and identified critical vulnerabilities for remediation
+     - Developed and implemented mitigation strategies to improve system security and reduce risk
+- Knowledge:
+     - Vulnerability management
+     - Network security
+Tools utilized:
+ - Nessus (vulnerability scanner)
+ 
  <b>System Admin </b>
   -
   -
@@ -33,7 +38,6 @@
 <b>Python</b>
 
 
-  -
 <h2>📺 YouTube Videos</h2>
 
 - [title](🔗)
