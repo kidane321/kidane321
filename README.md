@@ -1,5 +1,5 @@
 <h1>Hi, I'm Manderas Kidane!  A senior majoring in Information Technology at the University of North Florida </a> <a href="https://app.joinhandshake.com/stu/users/31818413"></a>
-
+I am an IT graduate and technology enthusiast with expertise in networking, system administration, and cybersecurity. With hands-on experience in troubleshooting, process optimization, and project execution, I am dedicated to solving technical challenges and improving systems. Currently pursuing CCNA certification to further enhance my networking capabilities.
 <h2>👨‍💻 IT Projects:</h2>
 
  <b>Computer Security And Intrusion Detections </b>
