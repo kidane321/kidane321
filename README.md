@@ -87,6 +87,13 @@ University of North Florida, Jacksonville, FL
 Dean’s List | Gold Latin Honor
 
 # Experience
+
+### Current Role: Technician
+**Cook Technology Corporation, Jacksonville, FL**
+- Provide on-site IT support, including PC repair, network configuration, and structured cabling (Cat5e/6).
+- Maintain video surveillance and security systems, ensuring optimal performance and compliance with protocols.
+- Achieved high client satisfaction ratings by resolving 2–3 daily work orders efficiently
+
 ### ITS Telecommunication Intern
 **University of North Florida, Jacksonville, FL** (May 2023 - February 2024)
 - Configured Active Directory for optimized campus camera management.
@@ -99,13 +106,6 @@ Dean’s List | Gold Latin Honor
 - Ensured compliance with quality standards to enhance customer satisfaction.
 - Conducted inspections and resolved quality issues to maintain product integrity.
 - Proposed process improvements, reducing waste and boosting efficiency.
-
-### Current Role: Technician
-**Cook Technology Corporation, Jacksonville, FL**
-- Provide on-site IT support, including PC repair, network configuration, and structured cabling (Cat5e/6).
-- Maintain video surveillance and security systems, ensuring optimal performance and compliance with protocols.
-- Achieved high client satisfaction ratings by resolving 2–3 daily work orders efficiently
-
 
 ## Contact Me
 - **Email:** [manderasderebu19@gmail.com](mailto:manderasderebu19@gmail.com)
