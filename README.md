@@ -11,6 +11,27 @@ I am an IT graduate and technology enthusiast with expertise in networking, syst
 - **Security:** Packet Sniffing, Intrusion Detection Systems (IDS), Network Security, NIST Standards
 - **Technical Support:** Remote Desktop, Basic Network Setup, Hardware & Software Troubleshooting, Linux Command Line
 
+# Experience
+
+### Current Role: Technician
+**Cook Technology Corporation, Jacksonville, FL**
+- Provide on-site IT support, including PC repair, network configuration, and structured cabling (Cat5e/6).
+- Maintain video surveillance and security systems, ensuring optimal performance and compliance with protocols.
+- Achieved high client satisfaction ratings by resolving 2–3 daily work orders efficiently
+
+### ITS Telecommunication Intern
+**University of North Florida, Jacksonville, FL** (May 2023 - February 2024)
+- Configured Active Directory for optimized campus camera management.
+- Resolved over 200+ ServiceNow tickets with a high-resolution rate.
+- Upgraded 1500+ VoIP phones and enhanced network efficiency.
+- Documented network setup to reduce troubleshooting time across departments.
+
+### Quality Control Specialist
+**Woliso Soap Factory, Woliso, Ethiopia** (February 2017 - August 2019)
+- Ensured compliance with quality standards to enhance customer satisfaction.
+- Conducted inspections and resolved quality issues to maintain product integrity.
+- Proposed process improvements, reducing waste and boosting efficiency.
+  
 <h2>👨‍💻 IT Projects:</h2>
 
  <b>Computer Security And Intrusion Detections </b>
@@ -86,27 +107,6 @@ University of North Florida, Jacksonville, FL
 **GPA:** 3.74/4.0  
 Dean’s List | Gold Latin Honor
 
-# Experience
-
-### Current Role: Technician
-**Cook Technology Corporation, Jacksonville, FL**
-- Provide on-site IT support, including PC repair, network configuration, and structured cabling (Cat5e/6).
-- Maintain video surveillance and security systems, ensuring optimal performance and compliance with protocols.
-- Achieved high client satisfaction ratings by resolving 2–3 daily work orders efficiently
-
-### ITS Telecommunication Intern
-**University of North Florida, Jacksonville, FL** (May 2023 - February 2024)
-- Configured Active Directory for optimized campus camera management.
-- Resolved over 200+ ServiceNow tickets with a high-resolution rate.
-- Upgraded 1500+ VoIP phones and enhanced network efficiency.
-- Documented network setup to reduce troubleshooting time across departments.
-
-### Quality Control Specialist
-**Woliso Soap Factory, Woliso, Ethiopia** (February 2017 - August 2019)
-- Ensured compliance with quality standards to enhance customer satisfaction.
-- Conducted inspections and resolved quality issues to maintain product integrity.
-- Proposed process improvements, reducing waste and boosting efficiency.
-
 ## Contact Me
 - **Email:** [manderasderebu19@gmail.com](mailto:manderasderebu19@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/manderas-kidane-836ba3231/](#)
@@ -114,9 +114,6 @@ Dean’s List | Gold Latin Honor
 
 <h2>📺 YouTube Videos</h2>
 
-- [title](🔗)
-
-<h2> Certifications </h2>
 
 
 
