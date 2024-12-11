@@ -3,6 +3,14 @@
 ## About Me
 
 I am an IT graduate and technology enthusiast with expertise in networking, system administration, and cybersecurity. With hands-on experience in troubleshooting, process optimization, and project execution, I am dedicated to solving technical challenges and improving systems. Currently pursuing CCNA certification to further enhance my networking capabilities.
+
+## Skills
+- **Networking:** TCP/IP, VLANs, Switching, Routing
+- **Programming:** Python, C, Java, SQL
+- **Tools & Platforms:** Active Directory, ServiceNow, SIEM Tools, Autopsy, FTK Imager, Nessus, Chronicle
+- **Security:** Packet Sniffing, Intrusion Detection Systems (IDS), Network Security, NIST Standards
+- **Technical Support:** Remote Desktop, Basic Network Setup, Hardware & Software Troubleshooting, Linux Command Line
+
 <h2>👨‍💻 IT Projects:</h2>
 
  <b>Computer Security And Intrusion Detections </b>
