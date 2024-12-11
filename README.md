@@ -1,7 +1,5 @@
 # Welcome to My Portfolio
 
-## About Me
-
 ## About Me  
 
 Hello! My name is Manderas Kidane, an IT graduate with hands-on experience in networking and cybersecurity. I specialize in video surveillance systems, Active Directory management, and network infrastructure, with a strong focus on enhancing operational efficiency and security. Currently, I work at Cook Technology Corporation, where I contribute to diverse IT solutions and projects.  
