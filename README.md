@@ -2,14 +2,18 @@
 
 ## About Me
 
-I am an IT graduate and technology enthusiast with expertise in networking, system administration, and cybersecurity. With hands-on experience in troubleshooting, process optimization, and project execution, I am dedicated to solving technical challenges and improving systems. Currently pursuing CCNA certification to further enhance my networking capabilities.
+## About Me  
 
-## Skills
-- **Networking:** TCP/IP, VLANs, Switching, Routing
-- **Programming:** Python, C, Java, SQL
-- **Tools & Platforms:** Active Directory, ServiceNow, SIEM Tools, Autopsy, FTK Imager, Nessus, Chronicle
-- **Security:** Packet Sniffing, Intrusion Detection Systems (IDS), Network Security, NIST Standards
-- **Technical Support:** Remote Desktop, Basic Network Setup, Hardware & Software Troubleshooting, Linux Command Line
+Hello! My name is Manderas Kidane, an IT graduate with hands-on experience in networking and cybersecurity. I specialize in video surveillance systems, Active Directory management, and network infrastructure, with a strong focus on enhancing operational efficiency and security. Currently, I work at Cook Technology Corporation, where I contribute to diverse IT solutions and projects.  
+
+I'm actively pursuing CCNA certification to deepen my networking expertise and stay ahead in this dynamic field. My ultimate goal is to design and implement innovative IT systems that make a real-world impact while ensuring robust cybersecurity measures.  
+
+When I'm not working on tech projects, I enjoy exploring the latest trends in cybersecurity, experimenting with DIY gadgets, and hiking in the great outdoors.  
+
+💼 Feel free to explore my projects below or connect with me through the following:  
+- **Email:** [manderasderebu19@gmail.com](mailto:manderasderebu19@gmail.com)  
+- **LinkedIn:** [Manderas Kidane](https://www.linkedin.com/in/manderas-kidane-836ba3231/)  
+
 
 # Experience
 
@@ -31,6 +35,13 @@ I am an IT graduate and technology enthusiast with expertise in networking, syst
 - Ensured compliance with quality standards to enhance customer satisfaction.
 - Conducted inspections and resolved quality issues to maintain product integrity.
 - Proposed process improvements, reducing waste and boosting efficiency.
+
+## Skills
+- **Networking:** TCP/IP, VLANs, Switching, Routing
+- **Programming:** Python, C, Java, SQL
+- **Tools & Platforms:** Active Directory, ServiceNow, SIEM Tools, Autopsy, FTK Imager, Nessus, Chronicle
+- **Security:** Packet Sniffing, Intrusion Detection Systems (IDS), Network Security, NIST Standards
+- **Technical Support:** Remote Desktop, Basic Network Setup, Hardware & Software Troubleshooting, Linux Command Line
   
 <h2>👨‍💻 IT Projects:</h2>
 
